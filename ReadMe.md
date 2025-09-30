@@ -1,5 +1,18 @@
-# 💫 About Me:
-# 👋 Yo, I'm Praveen  <br><br>💻 Full-stack dev in training  <br>⚡ Fresher tryna turn coffee → code  <br>🌱 Always learning, always vibin'  <br><br>---<br><br>## 🚀 Quick Vibes  <br>- 🛠️ Skills: **Java · JavaScript · React · HTML · CSS**  <br>- 🔭 Cooking: **projects to level up my stack**  <br>- 🌍 Dreaming: build dope apps that actually slap  <br>- 🎯 Goal: go from fresher → pro dev glow-up  <br>- 🤝 Open to: collabs, learning squads, hackathon chaos  <br><br>---<br><br>## 🧰 Toolbox  <br>- **Frontend:** React · HTML · CSS  <br>- **Backend (loading...):** Node.js · Express  <br>- **Databases (loading...):** MySQL · MongoDB  <br>- **Core:** Java · JavaScript  <br>- **Tools:** Git · VS Code  <br><br>---<br><br>## 📊 GitHub Energy  <br>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)  <br><br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)  <br><br>---<br><br>✨ *Fresh stack. Fresh start. Just coding, vibin’, and manifesting the dev life.*  <br>
+# 👋 Yo, I'm Praveen  
+
+💻 Full-stack dev in training  
+⚡ Fresher tryna turn coffee → code  
+🌱 Always learning, always vibin'  
+
+---
+
+## 🚀 Quick Vibes  
+- 🛠️ Skills: **Java · JavaScript · React · HTML · CSS**  
+- 🔭 Cooking: **projects to level up my stack**  
+- 🌍 Dreaming: build dope apps that actually slap  
+- 🎯 Goal: go from fresher → pro dev glow-up  
+- 🤝 Open to: collabs, learning squads, hackathon chaos  
+ 📊 GitHub Energy   <br><br>---<br><br>✨ *Fresh stack. Fresh start. Just coding, vibin’, and manifesting the dev life.*  <br>
 
 
 ## 🌐 Socials:
